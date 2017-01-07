@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizAttempt</string>
+    <string name="q1">"Which of the following behaviors qualifies as a form of abuse?"</string>
+    <string name="q1_a1">a. Using online communities or cell phones to control, intimidate, or humiliate you</string>
+    <string name="q1_a2">b. Making you feel guilty or immature when you don’t consent to sexual activity</string>
+    <string name="q1_a3">c. Accusing you of cheating and often being jealous of your outside relationships</string>
+    <string name="q1_a4">d. All of the above</string>
+    <string name="q2">Which of the following behaviors could be a form of positive consent?</string>
+    <string name="q2_a1">a. Assuming permission to engage in a sexual act with someone because you two have done it in the past </string>
+    <string name="q2_a2">b. Using physical cues to let somebody know you would be comfortable taking things to the next level</string>
+    <string name="q2_a3">c. Believing that a lack of a verbal refusal is an invitation to continue</string>
+    <string name="q2_a4">d. Interpretation of kissing, flirting, or certain types of clothing (or lack thereof) as an invitation for anything more</string>
+    <string name="q3">All except which of the following are positive ways to support someone who has been sexually assaulted?</string>
+    <string name="q3_a1">a. Offering to be there when the survivor decides to seek medical attention or plans to report their assault </string>
+    <string name="q3_a2">b. Encouraging them to practice good self-care during this difficult time</string>
+    <string name="q3_a3">c. Listening and communicating without judgement</string>
+    <string name="q3_a4">d. Pressuring them to engage in activities they aren’t ready to do yet </string>
+</resources>
